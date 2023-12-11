@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tR4ztscMrvNyoODN3DbTBz+6Uu7xgVhM+HK7gvAFfpDf6NN3zEisvElqJxzHrXqhhQHGhbZynsTjvuU2txUN3w==",
+  "dgSpecHash": "8+Cfh3cu80J2LwmEHta+5Fx/iFFLXrwp2tDefFN0+L2sXUpLFWpGHJO3oCcEoiE9b5MjlIAwjKP9r6+1bT3u7A==",
   "success": true,
-  "projectFilePath": "D:\\projects\\my_github\\uipath\\RPA_Project_Fill_Optionale\\.local\\",
+  "projectFilePath": "D:\\projects\\my_github\\uipath\\proiect_rpa\\RPA_Project_Fill_Optionale\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru-gusatu\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\alexandru-gusatu\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",

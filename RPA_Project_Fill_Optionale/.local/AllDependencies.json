@@ -21104,9 +21104,9 @@
     "restore": {
       "projectUniqueName": "RPA_Project_Fill_Optionale",
       "projectName": "RPA_Project_Fill_Optionale",
-      "projectPath": "D:\\projects\\my_github\\uipath\\RPA_Project_Fill_Optionale\\.local",
+      "projectPath": "D:\\projects\\my_github\\uipath\\proiect_rpa\\RPA_Project_Fill_Optionale\\.local",
       "packagesPath": "C:\\Users\\alexandru-gusatu\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\my_github\\uipath\\RPA_Project_Fill_Optionale\\.local",
+      "outputPath": "D:\\projects\\my_github\\uipath\\proiect_rpa\\RPA_Project_Fill_Optionale\\.local",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ]

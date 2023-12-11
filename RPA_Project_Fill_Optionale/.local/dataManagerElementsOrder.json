@@ -11,18 +11,119 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendForms/SendFormular.xaml",
+      "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "formsUrl&Sequence_3"
+        "ToBeClickedSelectors22&Sequence_3",
+        "ToBeClickedSelectors21&Sequence_3",
+        "ToBeClickedSelectors12&Sequence_3",
+        "ToBeClickedSelectors11&Sequence_3",
+        "list22&Sequence_3"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
     {
-      "Path": "SendFormular.xaml",
+      "Path": "ClickVariantaFormular.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "SelectorVar1Opt1Sem1&Sequence_3"
+        "randomValue&Sequence_1",
+        "SelectorVar1Opt1Sem1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "randomValue",
+        "list11"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendForms/PickOptionale11.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "toBeClickedSelector113&Sequence_1",
+        "toBeClickedSelector112&Sequence_1",
+        "toBeClickedSelector111&Sequence_1",
+        "randomValue&Sequence_1",
+        "list11&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ToBeClickedSelectors11"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendForms/PickOptionale12.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "randomValue&Sequence_2",
+        "index&Sequence_1",
+        "list12&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "toBeClickedSelectors12"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendForms/PickOptionale21.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "randomValue&Sequence_1",
+        "index&Sequence_1",
+        "list21&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ToBeClickedSelectors21"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendForms/PickOptionale22.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list22&Sequence_1",
+        "index&Sequence_1",
+        "randomValue&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ToBeClickedSelectors22"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendForms/DoSendNForms.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "formsUrl&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "sendingFormsCount"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SortareRezultateForms/ProcesareDateForms.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "medieAnPrecedent&Sequence_10",
+        "emailAddress&Sequence_10",
+        "rnd&Sequence_6",
+        "emailAddress&Sequence_7",
+        "rowIndex&Sequence_2",
+        "emailAddress&Sequence_4"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],

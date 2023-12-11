@@ -20,7 +20,7 @@ namespace RPA_Project_Fill_Optionale
     {
         public CodedWorkflow()
         {
-            _ = new System.Type[]{typeof(UiPath.Testing.API.ITestingService), typeof(UiPath.UIAutomationNext.API.Contracts.IUiAutomationAppService), typeof(UiPath.Core.Activities.API.ISystemService)};
+            _ = new System.Type[]{typeof(UiPath.Core.Activities.API.ISystemService), typeof(UiPath.Testing.API.ITestingService), typeof(UiPath.UIAutomationNext.API.Contracts.IUiAutomationAppService)};
         }
 
         protected UiPath.Core.Activities.API.ISystemService system { get => serviceContainer.Resolve<UiPath.Core.Activities.API.ISystemService>(); }
@@ -35,6 +35,10 @@ namespace RPA_Project_Fill_Optionale.ObjectRepository
 {
     public static class Descriptors
     {
+        public static class NewApplication
+        {
+            public static _Implementation._NewApplication.__Edge_Formular_op_ionale Edge_Formular_op_ionale { get; private set; } = new _Implementation._NewApplication.__Edge_Formular_op_ionale();
+        }
     }
 }
 
@@ -60,5 +64,22 @@ namespace RPA_Project_Fill_Optionale._Implementation
         public IElementDescriptor ParentElement { get; set; }
 
         public IElementDescriptor Element { get; set; }
+    }
+
+    namespace _NewApplication
+    {
+        public class __Edge_Formular_op_ionale : IScreenDescriptor
+        {
+            public IScreenDescriptorDefinition GetDefinition()
+            {
+                return _screenDescriptor;
+            }
+
+            private readonly ScreenDescriptorDefinition _screenDescriptor;
+            public __Edge_Formular_op_ionale()
+            {
+                _screenDescriptor = new ScreenDescriptorDefinition{Reference = "5m3w0gTkb02eBodl0vAvwg/nSNXc6BE6kuz1C5SGiOKCQ", DisplayName = "Edge Formular opționale", Screen = this};
+            }
+        }
     }
 }
