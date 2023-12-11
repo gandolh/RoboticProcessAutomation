@@ -118,12 +118,12 @@
       "Path": "SortareRezultateForms/ProcesareDateForms.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "rowIndex&Sequence_2",
+        "emailAddress&Sequence_4",
         "medieAnPrecedent&Sequence_10",
         "emailAddress&Sequence_10",
         "rnd&Sequence_6",
-        "emailAddress&Sequence_7",
-        "rowIndex&Sequence_2",
-        "emailAddress&Sequence_4"
+        "emailAddress&Sequence_7"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
