@@ -96,9 +96,11 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "SortareRezultateForms/ProcesareDateForms.xaml",
+      "Path": "RepartizareRezultate/ProcesareDateForms.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "WorkbookAddress&Sequence_1",
+        "FoaieRăspunsuri&Sequence_1",
         "rowIndex&Sequence_2",
         "emailAddress&Sequence_4",
         "rnd&Sequence_6",
