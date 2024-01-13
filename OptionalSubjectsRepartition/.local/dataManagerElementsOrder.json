@@ -29,7 +29,9 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "UrlCreatedForm&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -43,6 +45,73 @@
         "DisciplineDict&Sequence_2",
         "formDescription&Sequence_2",
         "formTitle&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "UrlCreatedForm"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendForms/DoSendNForms.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list22&Sequence_7",
+        "ToBeClickedSelectors11&Sequence_7",
+        "ToBeClickedSelectors12&Sequence_7",
+        "ToBeClickedSelectors21&Sequence_7",
+        "ToBeClickedSelectors22&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "formsUrl",
+        "sendingFormsCount"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendForms/PickOptionale11.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list11&Sequence_1",
+        "randomValue&Sequence_1",
+        "toBeClickedSelector111&Sequence_1",
+        "toBeClickedSelector112&Sequence_1",
+        "toBeClickedSelector113&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ToBeClickedSelectors11"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PregatireDate/PregatireDate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "EmailList&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SortareRezultateForms/ProcesareDateForms.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "rowIndex&Sequence_2",
+        "emailAddress&Sequence_4",
+        "rnd&Sequence_6",
+        "emailAddress&Sequence_7",
+        "emailAddress&Sequence_10",
+        "medieAnPrecedent&Sequence_10",
+        "dtExcelDataRaspunsuri&Sequence_14",
+        "headersList&Sequence_14",
+        "dtExcelDataRepartizari&Sequence_14",
+        "emailAddress&Sequence_15",
+        "priorityOfDiscipline&Sequence_16",
+        "Disciplina&Sequence_17",
+        "columnIndex&Sequence_17"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
