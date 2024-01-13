@@ -7,7 +7,7 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\alexandru-gusatu\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">Unknown</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.3</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.7.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\alexandru-gusatu\.nuget\packages\" />
@@ -15,6 +15,6 @@
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\alexandru-gusatu\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.3</PkgMicrosoft_CodeAnalysis_Analyzers>
-    <PkgUiPath_Mail_Activities Condition=" '$(PkgUiPath_Mail_Activities)' == '' ">C:\Users\alexandru-gusatu\.nuget\packages\uipath.mail.activities\1.21.1</PkgUiPath_Mail_Activities>
+    <PkgUiPath_Mail_Activities Condition=" '$(PkgUiPath_Mail_Activities)' == '' ">C:\Users\alexandru-gusatu\.nuget\packages\uipath.mail.activities\1.22.0-preview</PkgUiPath_Mail_Activities>
   </PropertyGroup>
 </Project>
