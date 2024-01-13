@@ -30,6 +30,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "DisciplineList&Sequence_1",
         "UrlCreatedForm&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
@@ -115,7 +116,9 @@
         "Disciplina&Sequence_17",
         "columnIndex&Sequence_17"
       ],
-      "ArgumentsSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "DisciplineList"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
