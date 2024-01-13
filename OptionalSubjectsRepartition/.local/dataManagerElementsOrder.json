@@ -30,6 +30,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "EmailList&Sequence_1",
+        "sendingFormsCount&Sequence_1",
         "DisciplineList&Sequence_1",
         "UrlCreatedForm&Sequence_1"
       ],
@@ -89,15 +91,15 @@
     {
       "Path": "PregatireDate/PregatireDate.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "EmailList&Sequence_4"
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "EmailList"
       ],
-      "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
     {
-      "Path": "RepartizareRezultate/ProcesareDateForms.xaml",
+      "Path": "RepartizareRezultate/RepartizareRezultate.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "WorkbookAddress&Sequence_1",
@@ -119,6 +121,16 @@
       "ArgumentsSectionElementsOrder": [
         "DisciplineList"
       ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TrimitereEmailuri/TrimitereEmailuri.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "StudentEmails&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
