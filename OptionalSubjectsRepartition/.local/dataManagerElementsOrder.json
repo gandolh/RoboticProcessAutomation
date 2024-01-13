@@ -30,6 +30,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "SelectedOption&Sequence_1",
         "EmailList&Sequence_1",
         "sendingFormsCount&Sequence_1",
         "DisciplineList&Sequence_1",
